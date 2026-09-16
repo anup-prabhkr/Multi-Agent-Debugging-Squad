@@ -118,7 +118,3 @@ python test_orchestrator.py
 ```
 
 ---
-
-## 📝 License
-
-MIT
